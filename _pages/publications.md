@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Conference/Journal Papers
 
-{% include base_path %}
+- **S. BaniasadAzad**, &M. R. Mosavi **LPCNet: Lane detection by lane points correction network in challenging environments based on deep learning**. 12th International Conference on Computer and Knowledge Engineering (ICCKE), pp. 446-451 (2022).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Cooming Soon
+
