@@ -19,5 +19,5 @@ My research interests include Deep Learning in particular, and Machine Learning 
 
 ## Education
 
-- M.Sc. in Electrical Engineering, Iran University of Science and Technology, (2021 - 2023)
-- B.Sc. in Electrical Engineering, Shahid Beheshti University, (2017 - 2021)
+- M.Sc. in Electrical Engineering, Iran University of Science and Technology, (2020 - 2023)
+- B.Sc. in Electrical Engineering, Shahid Beheshti University, (2016 - 2021)
