@@ -12,5 +12,4 @@ author_profile: true
 - **S. BaniasadAzad**, & M. R. Mosavi **DepthVO: Unsupervised deep monocular Visual Odometry based on a novel feature extraction module**. Measurement Journal (**Q1**) (2023).
 - **S. BaniasadAzad**, &M. R. Mosavi **LPCNet: Lane detection by lane points correction network in challenging environments based on deep learning**. 12th International Conference on Computer and Knowledge Engineering (ICCKE), pp. 446-451 (2022).
 
-## Cooming Soon
 
