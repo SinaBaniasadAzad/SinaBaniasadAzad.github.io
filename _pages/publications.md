@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference/Journal Papers
+Conference/Journal Papers
 
 - **S. BaniasadAzad**, M.Nezhadshahbodaghi & M. R. Mosavi **EDVIO: End-to-End Denoised Visual-Inertial Odometry Integration System**. Measurement Journal (**Q1**) (2023).
 - **S. BaniasadAzad**, & A. Amirkhani **GLNeRF: Global-Local Feature Networks with NeRF for Real-time View Synthesis**. Neural Computing and Applications Journal (**Q1**) (2023).
